@@ -1,0 +1,8 @@
+{
+    "disableAutoUpdate": false,
+    "name": "relog",
+    "author": "valkyr1e / Snug / wuaw / TerableCoder / Neko",
+    "description": "Cambiar de personaje rápidamente",
+    "version": "1.0",
+    "servers": [""]
+}
